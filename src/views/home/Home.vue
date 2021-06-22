@@ -96,7 +96,7 @@ export default defineComponent({
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0 auto;
+    margin: 0 auto 150px;
     width: 796px;
     .title {
       font-size: 22px;

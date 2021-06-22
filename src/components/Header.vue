@@ -34,32 +34,32 @@ export default defineComponent({
         },
         {
           id: 'news',
-          path: '/news',
+          path: 'news',
           name: '最新消息',
         },
         {
           id: 'story',
-          path: '/story',
+          path: 'story',
           name: '品牌故事',
         },
         {
           id: 'drink',
-          path: '/drink',
+          path: 'drink',
           name: '飲料列表',
         },
         {
           id: 'store',
-          path: '/store',
+          path: 'store',
           name: '門市列表',
         },
         {
           id: 'culture',
-          path: '/culture',
+          path: 'culture',
           name: '企業文化',
         },
         {
           id: 'contact',
-          path: '/contact',
+          path: 'contact',
           name: '聯絡我們',
         },
       ],
