@@ -70,9 +70,16 @@ export default defineComponent({
 
 <style lang="scss" scoped>
 header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 1;
   display: flex;
   justify-content: center;
   align-items: center;
+  background: #fff;
+  width: 100%;
+
   .iconWrap {
     flex: 0 0 auto;
     margin-left: 30px;
